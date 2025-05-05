@@ -20,7 +20,6 @@ public class MyThreadPool {
 
     public BlockingQueue<Runnable> blockingQueue;
 
-
     // 核心线程数
     private int corePoolSize = 10;
 
